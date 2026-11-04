@@ -1,73 +1,85 @@
  
-<!--
-  GITHUB PROFILE README
-  Repositório: verissimoMuh/verissimoMuh
-  Personalize os links de projetos e redes sociais indicados.
--->
+<!-- README.md — Perfil GitHub: verissimoMuh -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082f49,100:06b6d4&height=200&section=header&text=MURILO%20VERISSIMO&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Initializing+developer+profile...;Hello%2C+world!+I'm+Murilo.;ADS+Student+%7C+Java+Developer+in+Progress;Turning+ideas+into+technology.;System+online.+Welcome+to+my+GitHub." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:082f49,100:00BFFF&height=200&section=header&text=MURILO%20VERISSIMO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA%20%7C%20INOVACAO&descAlignY=60&descSize=12&animation=fadeIn" />
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Ol%C3%A1%2C+eu+sou+Murilo+Ver%C3%ADssimo!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Sistema+online.+Bem-vindo+ao+meu+GitHub!" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00D9FF?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-082f49?style=for-the-badge&logo=github&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO_PAULO%2C_BR-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" />
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
-
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```javascript
-const murilo = {
-    name: "Murilo Veríssimo",
-    location: "São Paulo, Brazil",
-    education: [
-        "Systems Analysis and Development - FECAP",
-        "Java Development - PROA",
-        "Systems Development Technician - ETEC"
-    ],
-    focus: [
-        "Software Development",
-        "Backend Development",
-        "Web Development",
-        "Database Management"
-    ],
-    currentlyLearning: ["Java", "React", "SQL"],
-    goal: "Become a skilled Software Developer"
-};
-```
-
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na FECAP** e apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
-
-Minha jornada começou no curso técnico em Desenvolvimento de Sistemas pela ETEC Cidade Tiradentes, onde tive meus primeiros contatos com lógica de programação, banco de dados e desenvolvimento de aplicações.
-
-Atualmente, continuo expandindo meus conhecimentos por meio da graduação na FECAP e da formação em Java pelo PROA.
-
-Acredito que cada linha de código é uma oportunidade de aprender, evoluir e transformar ideias em soluções reais.
-
----
-
-## `02 // TECH STACK`
+# `01 // SOBRE MIM`
 
 <div align="center">
 
-### Programming Languages
+### Olá! Seja bem-vindo ao meu espaço de desenvolvimento.
+
+</div>
+
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FECAP**, interessado em tecnologia, programação e desenvolvimento de soluções digitais.
+
+Minha trajetória começou na ETEC Cidade Tiradentes, onde concluí o curso técnico em Desenvolvimento de Sistemas. Atualmente, continuo aprimorando meus conhecimentos na graduação e na formação em Java pelo PROA.
+
+Gosto de transformar ideias em projetos, explorar novas tecnologias e desenvolver soluções que possam gerar impacto positivo na vida das pessoas.
+
+```javascript
+const murilo = {
+    nome: "Murilo Veríssimo",
+    localização: "São Paulo - SP",
+    
+    formação: [
+        "Análise e Desenvolvimento de Sistemas - FECAP",
+        "Formação em Java - PROA",
+        "Técnico em Desenvolvimento de Sistemas - ETEC"
+    ],
+
+    interesses: [
+        "Desenvolvimento de Software",
+        "Desenvolvimento Web",
+        "Back-end",
+        "Banco de Dados",
+        "Tecnologia e Inovação"
+    ],
+
+    estudando: [
+        "Java",
+        "JavaScript",
+        "React",
+        "MySQL"
+    ],
+
+    objetivo: "Evoluir constantemente como desenvolvedor."
+};
+```
+
+---
+
+# `02 // TECNOLOGIAS`
+
+<div align="center">
+
+### Linguagens de programação
 
 <img src="https://skillicons.dev/icons?i=java,js,cs,html,css&theme=dark" />
 
-### Frameworks & Libraries
+### Frameworks e bibliotecas
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&theme=dark" />
 
-### Database & Tools
+### Banco de dados e ferramentas
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma&theme=dark" />
 
@@ -75,21 +87,21 @@ Acredito que cada linha de código é uma oportunidade de aprender, evoluir e tr
 
 ---
 
-## `03 // DEVELOPMENT ENVIRONMENT`
+# `03 // FERRAMENTAS UTILIZADAS`
 
-| Tool | Purpose |
+| Ferramenta | Utilização |
 |---|---|
-| Visual Studio Code | Code editor |
-| Visual Studio | Application development |
-| Git & GitHub | Version control |
-| MySQL Workbench | Database management |
-| Figma | Interface prototyping |
-| GitHub Desktop | Repository management |
-| Node.js | JavaScript runtime |
+| Visual Studio Code | Desenvolvimento e edição de código |
+| Visual Studio | Desenvolvimento de aplicações |
+| Git | Controle de versão |
+| GitHub | Hospedagem e gerenciamento de projetos |
+| MySQL Workbench | Modelagem e gerenciamento de bancos de dados |
+| Figma | Prototipação e design de interfaces |
+| GitHub Desktop | Gerenciamento de repositórios |
 
 ---
 
-## `04 // FEATURED PROJECTS`
+# `04 // PROJETOS EM DESTAQUE`
 
 <div align="center">
 
@@ -103,74 +115,81 @@ Acredito que cada linha de código é uma oportunidade de aprender, evoluir e tr
 
 </div>
 
-### ◈ Xepa+ — Digital Marketplace
+### ◈ Xepa+ | Plataforma de conexão entre feirantes e consumidores
 
-Plataforma que conecta consumidores e feirantes, facilitando a comercialização de alimentos por meio das chamadas xepas.
+Projeto desenvolvido com o objetivo de conectar feirantes a consumidores por meio da comercialização de xepas, conjuntos de frutas, verduras e legumes vendidos por preços mais acessíveis.
 
-- Desenvolvimento de interface com React.
-- Conexão entre consumidores e comerciantes.
-- Proposta de redução do desperdício alimentar.
-- Funcionalidades de compras, vendas e gerenciamento.
+**Principais funcionalidades:**
+- Divulgação de xepas pelos feirantes.
+- Visualização e compra de produtos pelos consumidores.
+- Comunicação entre usuários e comerciantes.
+- Gerenciamento de compras e vendas.
+- Incentivo ao consumo consciente e à redução do desperdício alimentar.
 
-### ◈ Farejo — Pet Adoption Platform
+**Tecnologias:** React, JavaScript, CSS e outras tecnologias em desenvolvimento.
 
-Aplicação web desenvolvida como projeto de conclusão de curso técnico.
+### ◈ Farejo | Plataforma de adoção animal
 
-- Conexão entre ONGs e pessoas interessadas em adoção.
-- Busca de animais e filtros.
-- Perfis de animais e organizações.
-- Interface voltada à adoção responsável.
+Aplicação web desenvolvida como Trabalho de Conclusão de Curso na ETEC Cidade Tiradentes.
+
+O projeto busca aproximar ONGs e pessoas interessadas em adoção responsável de animais.
+
+**Principais funcionalidades:**
+- Cadastro de animais e organizações.
+- Busca e filtros de animais disponíveis.
+- Perfis individuais dos animais.
+- Informações sobre cuidados e adoção.
+- Interface voltada à experiência do usuário.
 
 ---
 
-## `05 // CURRENT OBJECTIVES`
+# `05 // OBJETIVOS ATUAIS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TERMINAL-v1.0-00D9FF?style=flat-square&logo=windowsterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/TERMINAL-ROADMAP_2026-00D9FF?style=flat-square&logo=windowsterminal&logoColor=white" />
 
 </div>
 
 ```bash
-┌──(murilo㉿developer)-[~/objectives]
-└─$ ./initialize.sh
+┌──(murilo㉿desenvolvedor)-[~/objetivos]
+└─$ iniciar_jornada.sh
 
-[+] Initializing development roadmap...
+[+] Carregando objetivos...
 
-[RUNNING]  Studying Java and OOP
-[RUNNING]  Improving React and JavaScript
-[RUNNING]  Learning SQL and database design
-[RUNNING]  Building real-world projects
-[PENDING]  Mastering Backend Development
-[PENDING]  Contributing to Open Source
-[PENDING]  Getting my first major opportunity in Tech
+[EM ANDAMENTO] Aprimorar conhecimentos em Java
+[EM ANDAMENTO] Desenvolver aplicações com React
+[EM ANDAMENTO] Evoluir em JavaScript
+[EM ANDAMENTO] Aprofundar conhecimentos em MySQL
+[EM ANDAMENTO] Desenvolver projetos práticos
+[PRÓXIMO PASSO] Aprofundar desenvolvimento Back-end
+[PRÓXIMO PASSO] Contribuir com projetos Open Source
+[OBJETIVO] Conquistar oportunidades na área de tecnologia
 
-[✓] SYSTEM STATUS: EVOLVING
+[✓] STATUS: APRENDENDO, DESENVOLVENDO E EVOLUINDO.
 
-┌─────────────────────────────────────┐
-│  EVERY DAY IS AN OPPORTUNITY TO CODE │
-└─────────────────────────────────────┘
+$ continuar_evoluindo();
 ```
 
 ---
 
-## `06 // GITHUB STATISTICS`
+# `06 // ESTATÍSTICAS DO GITHUB`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=verissimoMuh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=verissimoMuh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verissimoMuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=verissimoMuh&theme=tokyonight&hide_border=true&locale=en" />
+<img width="65%" src="https://streak-stats.demolab.com?user=verissimoMuh&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION ACTIVITY`
+# `07 // ATIVIDADE NO GITHUB`
 
 <div align="center">
 
@@ -180,7 +199,7 @@ Aplicação web desenvolvida como projeto de conclusão de curso técnico.
 
 ---
 
-## `08 // GITHUB TROPHIES`
+# `08 // CONQUISTAS`
 
 <div align="center">
 
@@ -190,30 +209,34 @@ Aplicação web desenvolvida como projeto de conclusão de curso técnico.
 
 ---
 
-## `09 // CONTRIBUTION SNAKE`
+# `09 // ANIMAÇÃO DE CONTRIBUIÇÕES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições do GitHub" />
 
 </div>
 
 ---
 
-## `10 // CONNECT WITH ME`
+# `10 // VAMOS NOS CONECTAR?`
 
 <div align="center">
 
+Estou sempre aberto a conhecer pessoas, trocar experiências, aprender novas tecnologias e descobrir oportunidades na área de desenvolvimento.
+
+<br>
+
 <a href="https://www.linkedin.com/in/murilo-verissimo-44a958372/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/verissimoMuh">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-ACOMPANHE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/E--MAIL-ENTRE_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -222,14 +245,18 @@ Aplicação web desenvolvida como projeto de conclusão de curso técnico.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:082f49,100:020617&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:082f49,100:020617&height=120&section=footer" />
 
-### `SYSTEM MESSAGE: THANK YOU FOR VISITING`
+### `SISTEMA: ENCERRANDO CONEXÃO...`
 
-**"The future is built one line of code at a time."**
+**"O futuro é construído uma linha de código por vez."**
 
-<img src="https://komarev.com/ghpvc/?username=verissimoMuh&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+<br>
 
-<sub>© 2026 Murilo Veríssimo | Built with passion, logic and coffee.</sub>
+<img src="https://komarev.com/ghpvc/?username=verissimoMuh&style=for-the-badge&color=0891b2&label=VISUALIZAÇÕES+DO+PERFIL" />
+
+<br><br>
+
+<sub>© 2026 Murilo Veríssimo | Desenvolvido com dedicação, criatividade e tecnologia.</sub>
 
 </div>
