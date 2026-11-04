@@ -213,31 +213,7 @@ $ continuar_evoluindo();
 
 <div align="center">
 
-# ⟡ 07 — ATIVIDADE E CONTRIBUIÇÕES
-
-*Calendário de contribuições e histórico de desenvolvimento.*
-
-<img width="100%" src="./github-activity.svg" alt="Calendário e atividades do GitHub" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⟡ 08 — CONQUISTAS
-
-*Cada conquista representa mais um passo na jornada.*
-
-<img width="100%" src="./github-achievements.svg" alt="Conquistas do GitHub" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⟡ 09 — SNAKE CONTRIBUTION
+# ⟡ 07 — SNAKE CONTRIBUTION
 
 *Uma representação animada das minhas contribuições no GitHub.*
 
@@ -253,7 +229,7 @@ $ continuar_evoluindo();
 
 <div align="center">
 
-# ⟡ 10 — VAMOS NOS CONECTAR?
+# ⟡ 8 — VAMOS NOS CONECTAR?
 
 *Vamos trocar conhecimentos, experiências e oportunidades!*
 
