@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:082f49,100:00BFFF&height=210&section=header&text=MURILO%20VERISSIMO&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=60&descSize=13&animation=fadeIn" />
 
@@ -24,9 +24,9 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Olá! Sou **Murilo Veríssimo**, estudante de Análise e Desenvolvimento de Sistemas na **FECAP** e entusiasta da tecnologia e do desenvolvimento de software.
+Olá! Sou **Murilo Veríssimo**, estudante de Análise e Desenvolvimento de Sistemas na **FECAP**, interessado em tecnologia, programação e desenvolvimento de software.
 
-Minha trajetória começou na ETEC Cidade Tiradentes, onde concluí o curso técnico em Desenvolvimento de Sistemas. Atualmente, continuo desenvolvendo minhas habilidades na graduação e na formação em Java pelo PROA.
+Minha trajetória começou na ETEC Cidade Tiradentes, onde concluí o curso técnico em Desenvolvimento de Sistemas. Atualmente, continuo aprimorando minhas habilidades na graduação e na formação em Java pelo PROA.
 
 Tenho interesse em desenvolvimento de aplicações, criação de interfaces, lógica de programação e banco de dados.
 
@@ -68,7 +68,7 @@ const murilo = {
 
 # ⟡ 02 — TECNOLOGIAS
 
-*Ferramentas e linguagens que fazem parte da minha jornada.*
+*Linguagens e ferramentas que fazem parte da minha jornada.*
 
 ### Linguagens
 
@@ -132,8 +132,8 @@ Projeto que busca facilitar a comercialização de xepas, conjuntos de frutas, v
 
 **Tecnologias:** React, JavaScript e CSS.
 
-<a href="https://github.com/verissimoMuh/NOME-DO-REPOSITORIO-XEPA">
-<img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Demoday-Xepa">
+<img src="https://img.shields.io/badge/VER_PROJETO_XEPA-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -154,8 +154,8 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso na ETEC Cidade Tiraden
 
 **Foco:** Tecnologia, impacto social e adoção responsável.
 
-<a href="https://github.com/verissimoMuh/NOME-DO-REPOSITORIO-FAREJO">
-<img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Outlier-Fora-da-Curva">
+<img src="https://img.shields.io/badge/VER_PROJETO_FAREJO-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -205,7 +205,7 @@ $ continuar_evoluindo();
 
 <br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=verissimoMuh&theme=tokyonight&hide_border=true&locale=pt_BR" />
+<img width="65%" src="https://streak-stats.demolab.com?user=verissimoMuh&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -215,9 +215,9 @@ $ continuar_evoluindo();
 
 # ⟡ 07 — ATIVIDADE E CONTRIBUIÇÕES
 
-*Visualização do histórico de desenvolvimento e contribuições.*
+*Calendário de contribuições e histórico de desenvolvimento.*
 
-<img width="100%" src="./github-metrics.svg" alt="Estatísticas, atividades e calendário de contribuições do GitHub" />
+<img width="100%" src="./github-activity.svg" alt="Calendário e atividades do GitHub" />
 
 </div>
 
@@ -229,7 +229,7 @@ $ continuar_evoluindo();
 
 *Cada conquista representa mais um passo na jornada.*
 
-<img width="100%" src="./github-metrics.svg" alt="Conquistas do GitHub" />
+<img width="100%" src="./github-achievements.svg" alt="Conquistas do GitHub" />
 
 </div>
 
@@ -268,12 +268,8 @@ $ continuar_evoluindo();
 </a>
 
 <a href="mailto:muriloverissimo2008@gmail.com">
-<img src="https://img.shields.io/badge/E--MAIL-ENTRE_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-muriloverissimo2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-📧 **muriloverissimo2008@gmail.com**
 
 </div>
 
