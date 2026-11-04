@@ -1,48 +1,45 @@
- 
-<!-- README.md — Perfil GitHub: verissimoMuh -->
+ <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:082f49,100:00BFFF&height=200&section=header&text=MURILO%20VERISSIMO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA%20%7C%20INOVACAO&descAlignY=60&descSize=12&animation=fadeIn" />
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:082f49,100:00BFFF&height=210&section=header&text=MURILO%20VERISSIMO&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=60&descSize=13&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Ol%C3%A1%2C+eu+sou+Murilo+Ver%C3%ADssimo!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Sistema+online.+Bem-vindo+ao+meu+GitHub!" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/SISTEMA-ONLINE-00D9FF?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-082f49?style=for-the-badge&logo=github&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO_PAULO%2C_BR-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/SÃO_PAULO-BRASIL-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" />
 
 </div>
 
 ---
 
-# `01 // SOBRE MIM`
-
 <div align="center">
 
-### Olá! Seja bem-vindo ao meu espaço de desenvolvimento.
+# ⟡ 01 — SOBRE MIM
+
+*Conhecimento, criatividade e tecnologia em constante evolução.*
 
 </div>
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FECAP**, interessado em tecnologia, programação e desenvolvimento de soluções digitais.
+Olá! Sou **Murilo Veríssimo**, estudante de Análise e Desenvolvimento de Sistemas na **FECAP** e entusiasta da tecnologia e do desenvolvimento de software.
 
-Minha trajetória começou na ETEC Cidade Tiradentes, onde concluí o curso técnico em Desenvolvimento de Sistemas. Atualmente, continuo aprimorando meus conhecimentos na graduação e na formação em Java pelo PROA.
+Minha trajetória começou na ETEC Cidade Tiradentes, onde concluí o curso técnico em Desenvolvimento de Sistemas. Atualmente, continuo desenvolvendo minhas habilidades na graduação e na formação em Java pelo PROA.
 
-Gosto de transformar ideias em projetos, explorar novas tecnologias e desenvolver soluções que possam gerar impacto positivo na vida das pessoas.
+Tenho interesse em desenvolvimento de aplicações, criação de interfaces, lógica de programação e banco de dados.
+
+Gosto de aprender na prática, transformar ideias em projetos e buscar constantemente novos desafios.
 
 ```javascript
 const murilo = {
     nome: "Murilo Veríssimo",
-    localização: "São Paulo - SP",
-    
-    formação: [
-        "Análise e Desenvolvimento de Sistemas - FECAP",
-        "Formação em Java - PROA",
+    localizacao: "São Paulo - SP",
+
+    formacao: [
+        "ADS - FECAP",
+        "Formação Java - PROA",
         "Técnico em Desenvolvimento de Sistemas - ETEC"
     ],
 
@@ -61,17 +58,19 @@ const murilo = {
         "MySQL"
     ],
 
-    objetivo: "Evoluir constantemente como desenvolvedor."
+    objetivo: "Evoluir e construir soluções através da tecnologia."
 };
 ```
 
 ---
 
-# `02 // TECNOLOGIAS`
-
 <div align="center">
 
-### Linguagens de programação
+# ⟡ 02 — TECNOLOGIAS
+
+*Ferramentas e linguagens que fazem parte da minha jornada.*
+
+### Linguagens
 
 <img src="https://skillicons.dev/icons?i=java,js,cs,html,css&theme=dark" />
 
@@ -79,7 +78,7 @@ const murilo = {
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&theme=dark" />
 
-### Banco de dados e ferramentas
+### Banco de dados e desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma&theme=dark" />
 
@@ -87,101 +86,124 @@ const murilo = {
 
 ---
 
-# `03 // FERRAMENTAS UTILIZADAS`
+<div align="center">
+
+# ⟡ 03 — FERRAMENTAS DE DESENVOLVIMENTO
+
+</div>
 
 | Ferramenta | Utilização |
-|---|---|
-| Visual Studio Code | Desenvolvimento e edição de código |
+|:---|:---|
+| Visual Studio Code | Edição e desenvolvimento de código |
 | Visual Studio | Desenvolvimento de aplicações |
 | Git | Controle de versão |
 | GitHub | Hospedagem e gerenciamento de projetos |
 | MySQL Workbench | Modelagem e gerenciamento de bancos de dados |
 | Figma | Prototipação e design de interfaces |
 | GitHub Desktop | Gerenciamento de repositórios |
+| Node.js | Ambiente de execução JavaScript |
 
 ---
 
-# `04 // PROJETOS EM DESTAQUE`
-
 <div align="center">
 
-<a href="https://github.com/verissimoMuh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=verissimoMuh&repo=REPOSITORIO_XEPA&theme=tokyonight&hide_border=true" />
-</a>
+# ⟡ 04 — PROJETOS EM DESTAQUE
 
-<a href="https://github.com/verissimoMuh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=verissimoMuh&repo=REPOSITORIO_FAREJO&theme=tokyonight&hide_border=true" />
-</a>
+*Ideias que saíram do papel e se transformaram em desenvolvimento.*
 
 </div>
 
-### ◈ Xepa+ | Plataforma de conexão entre feirantes e consumidores
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Projeto desenvolvido com o objetivo de conectar feirantes a consumidores por meio da comercialização de xepas, conjuntos de frutas, verduras e legumes vendidos por preços mais acessíveis.
+### 🥬 Xepa+
 
-**Principais funcionalidades:**
-- Divulgação de xepas pelos feirantes.
-- Visualização e compra de produtos pelos consumidores.
-- Comunicação entre usuários e comerciantes.
+**Plataforma de conexão entre feirantes e consumidores.**
+
+Projeto que busca facilitar a comercialização de xepas, conjuntos de frutas, verduras e legumes vendidos por preços mais acessíveis.
+
+**Funcionalidades:**
+- Divulgação de xepas.
+- Visualização e compra de produtos.
+- Conexão entre consumidores e feirantes.
 - Gerenciamento de compras e vendas.
-- Incentivo ao consumo consciente e à redução do desperdício alimentar.
+- Incentivo à redução do desperdício alimentar.
 
-**Tecnologias:** React, JavaScript, CSS e outras tecnologias em desenvolvimento.
+**Tecnologias:** React, JavaScript e CSS.
 
-### ◈ Farejo | Plataforma de adoção animal
+<a href="https://github.com/verissimoMuh/NOME-DO-REPOSITORIO-XEPA">
+<img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Aplicação web desenvolvida como Trabalho de Conclusão de Curso na ETEC Cidade Tiradentes.
+</td>
+<td width="50%" valign="top">
 
-O projeto busca aproximar ONGs e pessoas interessadas em adoção responsável de animais.
+### 🐾 Farejo
 
-**Principais funcionalidades:**
+**Plataforma de adoção responsável de animais.**
+
+Projeto desenvolvido como Trabalho de Conclusão de Curso na ETEC Cidade Tiradentes.
+
+**Funcionalidades:**
 - Cadastro de animais e organizações.
-- Busca e filtros de animais disponíveis.
-- Perfis individuais dos animais.
-- Informações sobre cuidados e adoção.
-- Interface voltada à experiência do usuário.
+- Busca e filtros de animais.
+- Perfis individuais.
+- Informações sobre cuidados.
+- Aproximação entre ONGs e adotantes.
+
+**Foco:** Tecnologia, impacto social e adoção responsável.
+
+<a href="https://github.com/verissimoMuh/NOME-DO-REPOSITORIO-FAREJO">
+<img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `05 // OBJETIVOS ATUAIS`
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/TERMINAL-ROADMAP_2026-00D9FF?style=flat-square&logo=windowsterminal&logoColor=white" />
+# ⟡ 05 — OBJETIVOS E PRÓXIMOS DESAFIOS
+
+<sub>TERMINAL DE DESENVOLVIMENTO · ROADMAP 2026</sub>
 
 </div>
 
 ```bash
-┌──(murilo㉿desenvolvedor)-[~/objetivos]
+┌──(murilo㉿developer)-[~/objetivos]
 └─$ iniciar_jornada.sh
 
-[+] Carregando objetivos...
+[+] Inicializando objetivos...
 
 [EM ANDAMENTO] Aprimorar conhecimentos em Java
-[EM ANDAMENTO] Desenvolver aplicações com React
-[EM ANDAMENTO] Evoluir em JavaScript
+[EM ANDAMENTO] Evoluir em JavaScript e React
 [EM ANDAMENTO] Aprofundar conhecimentos em MySQL
 [EM ANDAMENTO] Desenvolver projetos práticos
 [PRÓXIMO PASSO] Aprofundar desenvolvimento Back-end
 [PRÓXIMO PASSO] Contribuir com projetos Open Source
 [OBJETIVO] Conquistar oportunidades na área de tecnologia
 
-[✓] STATUS: APRENDENDO, DESENVOLVENDO E EVOLUINDO.
+[✓] SISTEMA: APRENDENDO E EVOLUINDO.
 
 $ continuar_evoluindo();
 ```
 
 ---
 
-# `06 // ESTATÍSTICAS DO GITHUB`
-
 <div align="center">
+
+# ⟡ 06 — ESTATÍSTICAS DO GITHUB
+
+*Um pouco da minha jornada através dos códigos.*
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=verissimoMuh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verissimoMuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br><br>
+<br>
 
 <img width="65%" src="https://streak-stats.demolab.com?user=verissimoMuh&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
@@ -189,45 +211,51 @@ $ continuar_evoluindo();
 
 ---
 
-# `07 // ATIVIDADE NO GITHUB`
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=verissimoMuh&theme=tokyo-night&hide_border=true&area=true" />
+# ⟡ 07 — ATIVIDADE E CONTRIBUIÇÕES
+
+*Visualização do histórico de desenvolvimento e contribuições.*
+
+<img width="100%" src="./github-metrics.svg" alt="Estatísticas, atividades e calendário de contribuições do GitHub" />
 
 </div>
 
 ---
 
-# `08 // CONQUISTAS`
-
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=verissimoMuh&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" />
+# ⟡ 08 — CONQUISTAS
+
+*Cada conquista representa mais um passo na jornada.*
+
+<img width="100%" src="./github-metrics.svg" alt="Conquistas do GitHub" />
 
 </div>
 
 ---
 
-# `09 // ANIMAÇÃO DE CONTRIBUIÇÕES`
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg">
-    <img alt="Animação das contribuições"
-      src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg">
-  </picture>
+
+# ⟡ 09 — SNAKE CONTRIBUTION
+
+*Uma representação animada das minhas contribuições no GitHub.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg" />
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg" width="100%" />
+</picture>
+
 </div>
 
-
-# `10 // VAMOS NOS CONECTAR?`
+---
 
 <div align="center">
 
-Estou sempre aberto a conhecer pessoas, trocar experiências, aprender novas tecnologias e descobrir oportunidades na área de desenvolvimento.
+# ⟡ 10 — VAMOS NOS CONECTAR?
+
+*Vamos trocar conhecimentos, experiências e oportunidades!*
 
 <br>
 
@@ -239,9 +267,13 @@ Estou sempre aberto a conhecer pessoas, trocar experiências, aprender novas tec
 <img src="https://img.shields.io/badge/GITHUB-ACOMPANHE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:muriloverissimo2008@gmail.com">
 <img src="https://img.shields.io/badge/E--MAIL-ENTRE_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+📧 **muriloverissimo2008@gmail.com**
 
 </div>
 
@@ -251,7 +283,7 @@ Estou sempre aberto a conhecer pessoas, trocar experiências, aprender novas tec
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:082f49,100:020617&height=120&section=footer" />
 
-### `SISTEMA: ENCERRANDO CONEXÃO...`
+### `SISTEMA: CONEXÃO FINALIZADA`
 
 **"O futuro é construído uma linha de código por vez."**
 
@@ -261,6 +293,6 @@ Estou sempre aberto a conhecer pessoas, trocar experiências, aprender novas tec
 
 <br><br>
 
-<sub>© 2026 Murilo Veríssimo | Desenvolvido com dedicação, criatividade e tecnologia.</sub>
+<sub>© 2026 Murilo Veríssimo · Desenvolvido com dedicação, criatividade e tecnologia.</sub>
 
 </div>
