@@ -212,12 +212,16 @@ $ continuar_evoluindo();
 # `09 // ANIMAÇÃO DE CONTRIBUIÇÕES`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições do GitHub" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg">
+    <img alt="Animação das contribuições"
+      src="https://raw.githubusercontent.com/verissimoMuh/verissimoMuh/output/github-snake.svg">
+  </picture>
 </div>
 
----
 
 # `10 // VAMOS NOS CONECTAR?`
 
