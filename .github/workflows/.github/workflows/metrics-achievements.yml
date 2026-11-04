@@ -1,0 +1,26 @@
+
+name: Atualizar conquistas do GitHub
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar conquistas
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: verissimoMuh
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
