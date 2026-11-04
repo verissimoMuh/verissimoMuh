@@ -1,0 +1,32 @@
+
+name: Atualizar atividades do GitHub
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar calendário e atividades
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: verissimoMuh
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
