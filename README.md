@@ -132,7 +132,7 @@ Projeto que busca facilitar a comercialização de xepas, conjuntos de frutas, v
 
 **Tecnologias:** React, JavaScript e CSS.
 
-<a href="https://github.com/Demoday-Xepa">
+<a href="https://github.com/XepaMais/XepaMais-App">
 <img src="https://img.shields.io/badge/VER_PROJETO_XEPA-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
